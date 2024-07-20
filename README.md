@@ -36,7 +36,7 @@ python nosql-passwordlengthchecker.py -u <URL> -U <USER>
 
 NoSQL Brute Force
 ```sh
-python nosql-bruteforce.py -u <URL> -U <USER> -W <length>
+python nosql-bruteforce.py -u <URL> -U <USER> -L <length>
 ```
 -u, --url: The URL to send the POST request to.
 -U, --user: The user field value to use in the POST request.
