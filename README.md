@@ -1,6 +1,7 @@
-# NoSQL Security Toolkit
+# NoSQL Security Toolkit for CTFs
+##Adjust to your needs
 
-This toolkity, provides utilities for testing and ensuring the security of NoSQL databases mostly for CTFs. It includes tools for password length checking and brute force attacks, designed to help developers and security professionals assess the resilience of their NoSQL database implementations against common attack vectors.
+This toolkit, provides utilities for testing and ensuring the security of NoSQL databases mostly for CTFs. It includes tools for password length checking and brute force attacks, designed to help developers and security professionals assess the resilience of their NoSQL database implementations against common attack vectors.
 
 ## Features
 
